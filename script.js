@@ -1,7 +1,7 @@
 
 const groups = [
   {
-    image: "EMMA_post.png",
+    image: "img/EMMA_post.png",
     link: "https://forms.gle/gGcV2TnfZ9Zan1tw7?entry.267493217=GroupA"
   },
   {
