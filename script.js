@@ -1,15 +1,15 @@
 
 const groups = [
   {
-    image: "img/EMMA_post.png",
+    image: "images/EMMA_post.png",
     link: "https://forms.gle/gGcV2TnfZ9Zan1tw7?entry.267493217=GroupA"
   },
   {
-    image: "img/Lil_Miquela_post.png",
+    image: "images/Lil_Miquela_post.png",
     link: "https://forms.gle/gGcV2TnfZ9Zan1tw7?entry.267493217=GroupB"
   },
   {
-    image: "img/Pata_the_Andean_Fox_post.png",
+    image: "images/Pata_the_Andean_Fox_post.png",
     link: "https://forms.gle/gGcV2TnfZ9Zan1tw7?entry.267493217=GroupC"
   }
 ];
